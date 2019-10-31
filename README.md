@@ -6,6 +6,4 @@
 3.克隆之后，请将“小夏同学.exe”添加到杀毒软件白名单，否则会被某些杀毒软件（360）查杀
 
 4.小夏同学3.0界面
-
-![image]
-(https://github.com/xjc-jim/wechat_robot_GUI/blob/master/picture/20191029191533.png)
+![image text](https://github.com/xjc-jim/wechat_robot_GUI/blob/master/picture/20191029191533.png)
