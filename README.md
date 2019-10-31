@@ -8,4 +8,4 @@
 4.小夏同学3.0界面
 
 ![image]
-(picture/20191029191533.png)
+(https://github.com/xjc-jim/wechat_robot_GUI/blob/master/picture/20191029191533.png)
